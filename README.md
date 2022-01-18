@@ -39,6 +39,15 @@ Sale-Insight
 ## Dashboard
 
 ![alt-image](https://github.com/mohit11R/Global-Sales-Analysis/blob/main/Sale%20Analysis/dashboard.png?raw=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Report Insight
+
+* Total Sale Value increased from $2.26 M to $12.64M.
+* Over 178k items have been sold in 4 years.
+* The Highest Purchased percentage is taken by Consumers - 51.48%.
+* In Global Market, the Asia Pacific market has over sales of 31.98%.
   
   
     
