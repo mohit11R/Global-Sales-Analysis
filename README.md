@@ -5,9 +5,9 @@
 ## Project Architecture
 * [Overview](https://github.com/mohit11R/Global-Sales-Analysis#overview)
 * [Prerequisite](https://github.com/mohit11R/Global-Sales-Analysis#Prerequisite)
-* [File Structure](https://github.com/mohit11R/Global-Sales-Analysis#File Structure)
+* [File Structure](https://github.com/mohit11R/Global-Sales-Analysis#File-Structure)
 * [Dashboard](https://github.com/mohit11R/Global-Sales-Analysis#Dashboard)
-* [Report Insight](https://github.com/mohit11R/Global-Sales-Analysis#Report Insight)
+* [Report Insight](https://github.com/mohit11R/Global-Sales-Analysis#Report-Insight)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
