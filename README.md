@@ -38,7 +38,8 @@ Sale-Insight
 
 ## Dashboard
 
-![alt-image]()
+![alt-image](https://github.com/mohit11R/Global-Sales-Analysis/blob/main/Sale%20Analysis/dashboard.png?raw=true)
+  
   
     
     
